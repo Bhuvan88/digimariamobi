@@ -1,0 +1,5 @@
+{
+    "apiUrl":"https://digimaria.com/digimaria/api/",
+    "loadDataLimit":20 ,
+    "imageBaseUrl":"https://digimaria.com/digimaria"
+}
